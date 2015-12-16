@@ -755,5 +755,6 @@ header {
 	width: 100%;
 }
 }
+.error { color:rgba(167, 23, 35, 0.93); }
 
 /**/
