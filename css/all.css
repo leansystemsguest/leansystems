@@ -438,13 +438,15 @@ padding-top: 14px; */
 	display: block;
 	margin-bottom: 5px!important;
 	width: 100%;
+	height: 54px;
+	clear: both;
 }
 .contact-form input[type="text"] {
 	border: 1px solid #ececec;
 	box-shadow: none;
 }
 .contact-form textarea {
-	height: 166px;
+	height: 90px;
 	border: 1px solid #ececec;
 	width: 100%;
 	padding: 10px;
@@ -701,6 +703,7 @@ header {
 }
 .submit-butn {
 	float: right;
+	margin-top: 28px;
 }
 .row.service-pg-box figure {
 	min-height: 600px;
@@ -755,6 +758,16 @@ header {
 	width: 100%;
 }
 }
-.error { color:rgba(167, 23, 35, 0.93); }
+.page-tittle { 
+	margin-bottom: 1%;
+    font-weight: bold;
+    font-size: 21px; 
+	}
+.form_tittle { margin-bottom: 2%; }
+.error { 
+	color:rgba(167, 23, 35, 0.93);
+	font-size: 12px;
+	margin-bottom: 0px;
+	}
 
 /**/

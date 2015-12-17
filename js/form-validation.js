@@ -25,7 +25,7 @@ $(document).ready(function() {
         // Specify the validation error messages
         messages: {
             name:  {
-				required: "Please enter your full name" },
+				required: "Please enter your name" },
              email: {
                 required: "Please enter email",
 				email: "Please enter valid email address"
@@ -35,7 +35,7 @@ $(document).ready(function() {
                 required: "Please enter subject "
             },
 			message: {
-                required: "Please Enter message"
+                required: "Please enter message"
             }
            
         },
